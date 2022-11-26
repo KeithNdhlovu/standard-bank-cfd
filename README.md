@@ -15,3 +15,11 @@ Download the datasets from Kaggle [Here]([Download](https://www.kaggle.com/datas
 ### Step 2
 
 When the download is finished, you can unzip the downloaded files on the root location for this project, you should now have `fraudTest.csv` and `fraudTrain.csv`.
+
+### Step 3
+
+Navigate to the `web_application/detector-api/` and Checkout the README
+
+### Step 4
+
+Navigate to the `web_application/fraud-detection/` and Checkout the README
