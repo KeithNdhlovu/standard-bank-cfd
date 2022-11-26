@@ -14,4 +14,4 @@ Download the datasets from Kaggle [Here]([Download](https://www.kaggle.com/datas
 
 ### Step 2
 
-You can begin training your model by running the notebook
+When the download is finished, you can unzip the downloaded files on the root location for this project, you should now have `fraudTest.csv` and `fraudTrain.csv`.
